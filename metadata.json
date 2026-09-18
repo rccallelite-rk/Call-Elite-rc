@@ -1,0 +1,6 @@
+{
+  "name": "RC Call Elite",
+  "description": "Premium multi-service home booking platform for appliance care, bike services, painting, home repair, interiors, and construction. Your Home. Our Expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

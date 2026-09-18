@@ -1,0 +1,5 @@
+# Robots.txt for RC Call Elite
+User-agent: *
+Allow: /
+
+Sitemap: https://calleliterc.com/sitemap.xml
